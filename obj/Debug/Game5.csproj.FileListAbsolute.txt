@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\Game5\bin\Debug\Game5.exe.config
+C:\Users\Administrator\Desktop\Game5\bin\Debug\Game5.exe
+C:\Users\Administrator\Desktop\Game5\bin\Debug\Game5.pdb
+C:\Users\Administrator\Desktop\Game5\obj\Debug\Game5.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Game5\obj\Debug\Game5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Game5\obj\Debug\Game5.exe
+C:\Users\Administrator\Desktop\Game5\obj\Debug\Game5.pdb
+D:\Mapua\Y2-T1\IT111L\_NEW Compile\Game5\Game5\bin\Debug\Game5.exe.config
+D:\Mapua\Y2-T1\IT111L\_NEW Compile\Game5\Game5\bin\Debug\Game5.exe
+D:\Mapua\Y2-T1\IT111L\_NEW Compile\Game5\Game5\bin\Debug\Game5.pdb
+D:\Mapua\Y2-T1\IT111L\_NEW Compile\Game5\Game5\obj\Debug\Game5.csproj.AssemblyReference.cache
+D:\Mapua\Y2-T1\IT111L\_NEW Compile\Game5\Game5\obj\Debug\Game5.csproj.CoreCompileInputs.cache
+D:\Mapua\Y2-T1\IT111L\_NEW Compile\Game5\Game5\obj\Debug\Game5.exe
+D:\Mapua\Y2-T1\IT111L\_NEW Compile\Game5\Game5\obj\Debug\Game5.pdb
+C:\Users\Administrator\Downloads\Game5\bin\Debug\Game5.exe.config
+C:\Users\Administrator\Downloads\Game5\bin\Debug\Game5.exe
+C:\Users\Administrator\Downloads\Game5\bin\Debug\Game5.pdb
+C:\Users\Administrator\Downloads\Game5\obj\Debug\Game5.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Game5\obj\Debug\Game5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Game5\obj\Debug\Game5.exe
+C:\Users\Administrator\Downloads\Game5\obj\Debug\Game5.pdb
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (9)\Game5\bin\Debug\Game5.exe.config
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (9)\Game5\bin\Debug\Game5.exe
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (9)\Game5\bin\Debug\Game5.pdb
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (9)\Game5\obj\Debug\Game5.csproj.AssemblyReference.cache
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (9)\Game5\obj\Debug\Game5.csproj.CoreCompileInputs.cache
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (9)\Game5\obj\Debug\Game5.exe
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (9)\Game5\obj\Debug\Game5.pdb
+E:\EnerioCS\Game5\bin\Debug\Game5.exe.config
+E:\EnerioCS\Game5\bin\Debug\Game5.exe
+E:\EnerioCS\Game5\bin\Debug\Game5.pdb
+E:\EnerioCS\Game5\obj\Debug\Game5.csproj.AssemblyReference.cache
+E:\EnerioCS\Game5\obj\Debug\Game5.csproj.CoreCompileInputs.cache
+E:\EnerioCS\Game5\obj\Debug\Game5.exe
+E:\EnerioCS\Game5\obj\Debug\Game5.pdb
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (100)-Updated\Game5\bin\Debug\Game5.exe.config
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (100)-Updated\Game5\bin\Debug\Game5.exe
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (100)-Updated\Game5\bin\Debug\Game5.pdb
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (100)-Updated\Game5\obj\Debug\Game5.csproj.AssemblyReference.cache
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (100)-Updated\Game5\obj\Debug\Game5.csproj.CoreCompileInputs.cache
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (100)-Updated\Game5\obj\Debug\Game5.exe
+D:\Mapua\Y2-T1\IT111L\LATEST\Game5 (100)-Updated\Game5\obj\Debug\Game5.pdb

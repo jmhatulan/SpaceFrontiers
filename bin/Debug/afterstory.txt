@@ -1,0 +1,16 @@
+?????;Narrator.png;B;In the aftermath of the cosmic encounter with the enigmatic Cosmic Behemoth, as Atlas sailed through the tranquil cosmic expanse, a gentle, ethereal voice echoed around him—the voice of the Cosmic Narrator, the unseen storyteller of the cosmos.
+?????;Narrator.png;B;Atlas, wanderer of the stars, your journey has not gone unnoticed.
+Atlas;Atlas.png;A;Who's there?
+Cosmic Narrator;Narrator.png;B;I am the Cosmic Narrator, the voice that resonates through the cosmos, weaving the threads of your cosmic odyssey.
+Atlas;Atlas.png;A;[Inside Atlas Head] As the voice spoke, a shimmering figure materialized—a cosmic entity that embodied the essence of the universe itself.
+Cosmic Narrator;Narrator.png;B;You've harmonized the discordant energies, and in doing so, you've unlocked the secret of the universe.
+Atlas;Atlas.png;A;The secret of the universe?
+Cosmic Narrator;Narrator.png;B;Yes, Atlas. The secret is that the universe thrives on balance, and your journey has played a vital role in restoring that equilibrium. With a cosmic gesture, the Cosmic Narrator bestowed upon Atlas a radiant orb of cosmic energy—a symbol of the harmony he had brought to the cosmos.
+Atlas;Atlas.png;A;As Atlas held the radiant orb, a warm energy enveloped him, filling his being with a profound sense of connection to the cosmic tapestry.
+Atlas;Atlas.png;A;Thank you, Cosmic Narrator. What's next for me?
+Cosmic Narrator;Narrator.png;B;Continue your journey, Atlas. Explore the mysteries of the cosmos, for the universe is vast and ever-changing. Your adventures are a testament to the infinite possibilities that unfold in the cosmic expanse.
+Atlas;Atlas.png;A;With those final words, the Cosmic Narrator's figure dissipated into stardust, leaving Atlas with the radiant orb—a token of the cosmic secrets and a guide for the countless wonders yet to be discovered.
+Cosmic Narrator;Narrator.png;B;And so, with the radiant orb in hand, Atlas sailed into the cosmic unknown, guided by the whispers of the cosmos, ready for the next chapter in his cosmic odyssey.
+
+
+
