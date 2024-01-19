@@ -1,0 +1,5 @@
+Atlas;Atlas.png;A;Just when things couldn't get more intense, the cosmos decided to throw in another curveball. More enemy ships emerged from the shadows, their designs more menacing, and their firepower more formidable.
+Atlas;Atlas.png;A;I need more than just my standard weapons for this.
+????;Narrator.png;B;In the midst of the chaos, a faint glow enveloped Atlas's spaceship. The hum of energy resonated within the cockpit as a mysterious power surged through the ship's systems.
+Atlas;Atlas.png;A;What's happening? Did I just... power up?
+Atlas;Atlas.png;A;Let's see what these upgrades can do.

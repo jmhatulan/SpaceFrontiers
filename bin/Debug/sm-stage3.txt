@@ -1,0 +1,13 @@
+Atlas;Atlas.png;A;Oh goodness. Hyperspeed travel is no joke. I'm so dizzy right now.
+Atlas;Atlas.png;A;According to my coordinates, I should be nearby the Dehj-0117 Planet.
+Atlas;Atlas.png;A;I'm gonna let my spaceship recharge its energy before I activate hyperspeed travel again. Dehj-0117 is still 2 lightyears away from my location.
+Atlas;Atlas.png;A;Hold on, I'm detecting other spaceships in the area.
+Atlas;Atlas.png;A;Wow! It's my very first space encounter! I'm going to try to establish a communication channel.
+????;Soldier.png;B;Leave this area immediately! It's not safe here! The Entropy had attacked Dehj-0117. We are going t--
+Atlas;Atlas.png;A;The channel just went out. Did he just say that the Entropy attacked Dehj-0117? That's the infamous intergalactic terrorist group.
+Atlas;Atlas.png;A;My spaceship is still recharging. I'm gonna be stuck for a while. I should probably activate the stealth--
+Atlas;Atlas.png;A;Argh! Someone just shoot at my spaceship!
+Entropy Soldier;Soldier.png;B;Don't let the refugees escape! Destroy those carrier ships.
+Atlas;Atlas.png;A;Is space really this hostile? It's my first week of space travel and I already got myself in a lot of trouble.
+Atlas;Atlas.png;A;The intergalactic laws says that we are allowed to use lethal weapons to defend against intergalactic terrorist. I cannot just let them destroy those carrier ships. Those things usually carry civilians.
+Atlas;Atlas.png;A;I still have enough power to fight against them. I'm gonna activate my spaceship's weapon.

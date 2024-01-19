@@ -1,0 +1,8 @@
+????;Narrator.png;B;The transition from the chaotic battleground to the cold, desolate region of space was swift. The temperature in the cockpit plummeted, and Atlas could see the icy breath of the cosmos as he ventured into the Frozen Abyss.
+????;Narrator.png;B;The void around him was adorned with ethereal ice crystals, casting an otherworldly glow upon the surrounding darkness. Atlas shivered, not just from the cold, but from the eerie beauty of the cosmic landscape.
+Atlas;Atlas.png;A;This is quite the change of scenery. I hope my ship can handle the extreme temperatures.
+????;Narrator.png;B;As Atlas pressed forward, the freezing expanse seemed to resist his every move. The navigation controls became sluggish, and the spaceship's systems strained against the frigid embrace of space.
+Atlas;Atlas.png;A;I need to be careful. This cold is unforgiving, and it looks like my ship is feeling it too.
+????;Narrator.png;B;As he ventured deeper, a gravitational anomaly manifested itself—a precursor to the notorious black hole that loomed in the distance, a swirling abyss that devoured everything in its grasp.
+Atlas;Atlas.png;A;A black hole? That's not something you see every day.
+Atlas;Atlas.png;A;Wait... it's pulling me!!!
